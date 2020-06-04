@@ -1,0 +1,129 @@
+{
+  "uid" : "249f5bb91be67277",
+  "name" : "test_run[81-0-80-从GOT Online界面-运行(1)-[\"click\"]-[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.button-container > button:nth-child(3) > span'\"]-get_text-[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.projects-container > div > div > div.project-content > div.project-desc > div.project-desc-header > p'\"]-已完成-None]",
+  "fullName" : "testrun.TestClass#test_run[81-0-80-从GOT Online界面-运行(1)-[\"click\"]-[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.button-container > button:nth-child(3) > span'\"]-get_text-",
+  "historyId" : "de90fb3c5c53bd88b18cc472a2c54c6b",
+  "time" : {
+    "start" : 1591264985687,
+    "stop" : 1591264985687,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 80为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 80为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591264896965,
+      "stop" : 1591264904907,
+      "duration" : 7942
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591264986252,
+      "stop" : 1591264990324,
+      "duration" : 4072
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GOT.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "7784-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.projects-container > div > div > div.project-content > div.project-desc > div.project-desc-header > p'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "80"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'运行(1)'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.button-container > button:nth-child(3) > span'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'已完成'"
+  }, {
+    "name" : "ID",
+    "value" : "81"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从GOT Online界面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6a1910cc8dcac5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753683728,
+        "stop" : 1588753686830,
+        "duration" : 3102
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "249f5bb91be67277.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.projects-container > div > div > div.project-content > div.project-desc > div.project-desc-header > p'\"]'", "'get_text'", "80", "'运行(1)'", "'[\"By.CSS_SELECTOR,'#pane-gotProjects > div > div.button-container > button:nth-child(3) > span'\"]'", "'已完成'", "81", "'[\"click\"]'", "'从GOT Online界面'", "None", "0" ]
+}

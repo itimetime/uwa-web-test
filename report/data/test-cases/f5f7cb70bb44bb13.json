@@ -1,0 +1,130 @@
+{
+  "uid" : "f5f7cb70bb44bb13",
+  "name" : "test_run[58-0-57-从报告详情页面-GPU信息页面-点击资源统计-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(6) > a > span'\"]-get_text-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li.el-menu-item.is-active > a > span'\"]-资源统计-None]",
+  "fullName" : "testrun.TestClass#test_run[58-0-57-从报告详情页面-GPU信息页面-点击资源统计-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(6) > a > span'\"]-get_text-",
+  "historyId" : "3a06fbe803e120e2b225057c46993311",
+  "time" : {
+    "start" : 1588754019609,
+    "stop" : 1588754022719,
+    "duration" : 3110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1588753427363,
+      "stop" : 1588753436153,
+      "duration" : 8790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8aec423f3b243227",
+      "name" : "log",
+      "source" : "8aec423f3b243227.txt",
+      "type" : "text/plain",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1588754229250,
+      "stop" : 1588754233323,
+      "duration" : 4073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li.el-menu-item.is-active > a > span'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "57"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击资源统计'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(6) > a > span'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'资源统计'"
+  }, {
+    "name" : "ID",
+    "value" : "58"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从报告详情页面-GPU信息页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5f7cb70bb44bb13.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li.el-menu-item.is-active > a > span'\"]'", "'get_text'", "57", "'点击资源统计'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(6) > a > span'\"]'", "'资源统计'", "58", "'[\"click\"]'", "'从报告详情页面-GPU信息页面'", "None", "0" ]
+}

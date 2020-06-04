@@ -1,0 +1,129 @@
+{
+  "uid" : "cd403d88e899776c",
+  "name" : "test_run[26-0-25-从报告详情页面-硬件信息页面-点击硬件信息-能耗均值 (%)-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(1) > div > div.el-row > div.el-col.el-col-16 > p'\"]-get_text-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.hchart-content > div > div.hchart-header > h3'\"]-电量-None]",
+  "fullName" : "testrun.TestClass#test_run[26-0-25-从报告详情页面-硬件信息页面-点击硬件信息-能耗均值 (%)-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(1) > div > div.el-row > div.el-col.el-col-16 > p'\"]-get_text-",
+  "historyId" : "1bb516f0e5506233c4d26cf36c344bf7",
+  "time" : {
+    "start" : 1591265074090,
+    "stop" : 1591265074090,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 25为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 25为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591264991984,
+      "stop" : 1591264999906,
+      "duration" : 7922
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591265074788,
+      "stop" : 1591265078854,
+      "duration" : 4066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GPM.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "23572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.hchart-content > div > div.hchart-header > h3'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "25"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击硬件信息-能耗均值 (%)'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(1) > div > div.el-row > div.el-col.el-col-16 > p'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'电量'"
+  }, {
+    "name" : "ID",
+    "value" : "26"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从报告详情页面-硬件信息页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ef22f1f3ed0171b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753941157,
+        "stop" : 1588753944270,
+        "duration" : 3113
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd403d88e899776c.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.hchart-content > div > div.hchart-header > h3'\"]'", "'get_text'", "25", "'点击硬件信息-能耗均值 (%)'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(1) > div > div.el-row > div.el-col.el-col-16 > p'\"]'", "'电量'", "26", "'[\"click\"]'", "'从报告详情页面-硬件信息页面'", "None", "0" ]
+}

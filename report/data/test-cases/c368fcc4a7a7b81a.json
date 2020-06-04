@@ -1,0 +1,114 @@
+{
+  "uid" : "c368fcc4a7a7b81a",
+  "name" : "test_run[23-0-22-从项目报告页-点击收起菜单栏-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr.el-table__row.expanded > td.el-table_2_column_14.undefined.el-table__expand-column > div > div > i'\"]-get_attr-[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(1)')|class\"]-el-table__row-None]",
+  "fullName" : "testrun.TestClass#test_run[23-0-22-从项目报告页-点击收起菜单栏-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr.el-table__row.expanded > td.el-table_2_column_14.undefined.el-table__expand-column > div > div > i'\"]-get_attr-",
+  "historyId" : "f249a7bfcbab94793e70dfa45a0a5d35",
+  "time" : {
+    "start" : 1588754176140,
+    "stop" : 1588754179261,
+    "duration" : 3121
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1588753427363,
+      "stop" : 1588753436153,
+      "duration" : 8790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1588754229250,
+      "stop" : 1588754233323,
+      "duration" : 4073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(1)')|class\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_attr'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "22"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击收起菜单栏'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr.el-table__row.expanded > td.el-table_2_column_14.undefined.el-table__expand-column > div > div > i'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'el-table__row'"
+  }, {
+    "name" : "ID",
+    "value" : "23"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从项目报告页'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c368fcc4a7a7b81a.json",
+  "parameterValues" : [ "'[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(1)')|class\"]'", "'get_attr'", "22", "'点击收起菜单栏'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr.el-table__row.expanded > td.el-table_2_column_14.undefined.el-table__expand-column > div > div > i'\"]'", "'el-table__row'", "23", "'[\"click\"]'", "'从项目报告页'", "None", "0" ]
+}

@@ -1,0 +1,130 @@
+{
+  "uid" : "c72074b2e7783448",
+  "name" : "test_run[139-0-138-项目页-总体内存-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(2) > a > span'\"]-get_text-[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]-LUA内存峰值-None]",
+  "fullName" : "testrun.TestClass#test_run[139-0-138-项目页-总体内存-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(2) > a > span'\"]-get_text-",
+  "historyId" : "f7ab9fd7334d26000efb7a04b167be46",
+  "time" : {
+    "start" : 1588753856652,
+    "stop" : 1588753859761,
+    "duration" : 3109
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1588753427363,
+      "stop" : 1588753436153,
+      "duration" : 8790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "96994cb081cdf182",
+      "name" : "log",
+      "source" : "96994cb081cdf182.txt",
+      "type" : "text/plain",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1588754229250,
+      "stop" : 1588754233323,
+      "duration" : 4073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "138"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'总体内存'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(2) > a > span'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'LUA内存峰值'"
+  }, {
+    "name" : "ID",
+    "value" : "139"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'项目页'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c72074b2e7783448.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'", "'get_text'", "138", "'总体内存'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(2) > a > span'\"]'", "'LUA内存峰值'", "139", "'[\"click\"]'", "'项目页'", "None", "0" ]
+}

@@ -1,0 +1,129 @@
+{
+  "uid" : "d7bda683b80a825d",
+  "name" : "test_run[50-0-49-从报告详情页面-渲染性能页面-点击GPU信息-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(5) > a > span'\"]-get_text-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li.el-menu-item.is-active > a > span'\"]-GPU信息-None]",
+  "fullName" : "testrun.TestClass#test_run[50-0-49-从报告详情页面-渲染性能页面-点击GPU信息-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(5) > a > span'\"]-get_text-",
+  "historyId" : "cd321d82558ab82de378fdfa9ded46b6",
+  "time" : {
+    "start" : 1591265074365,
+    "stop" : 1591265074365,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 49为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 49为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591264991984,
+      "stop" : 1591264999906,
+      "duration" : 7922
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591265074788,
+      "stop" : 1591265078854,
+      "duration" : 4066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GPM.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "23572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li.el-menu-item.is-active > a > span'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "49"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击GPU信息'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(5) > a > span'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'GPU信息'"
+  }, {
+    "name" : "ID",
+    "value" : "50"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从报告详情页面-渲染性能页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c79c07e8e817e970",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753999893,
+        "stop" : 1588754003013,
+        "duration" : 3120
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7bda683b80a825d.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li.el-menu-item.is-active > a > span'\"]'", "'get_text'", "49", "'点击GPU信息'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li:nth-child(5) > a > span'\"]'", "'GPU信息'", "50", "'[\"click\"]'", "'从报告详情页面-渲染性能页面'", "None", "0" ]
+}

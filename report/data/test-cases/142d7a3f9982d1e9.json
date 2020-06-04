@@ -1,0 +1,84 @@
+{
+  "uid" : "142d7a3f9982d1e9",
+  "name" : "test_run[78-1-77-从消息通知页面-跳转到报告详情页面-逻辑代码页面-[\"back\"]-[\"none\"]-get_url-[\"none\"]-https://test.uwa4d.com/u/got/mono.html/leakage?dataKey=20190826183650ple567d3577&project=6553-None]",
+  "fullName" : "testrun.TestClass#test_run[78-1-77-从消息通知页面-跳转到报告详情页面-逻辑代码页面-[\"back\"]-[\"none\"]-get_url-",
+  "historyId" : "176051484ae7208cd49c386001f539da",
+  "time" : {
+    "start" : 1588753673463,
+    "stop" : 1588753674955,
+    "duration" : 1492
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "77"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'跳转到报告详情页面-逻辑代码页面'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/u/got/mono.html/leakage?dataKey=20190826183650ple567d3577&project=6553'"
+  }, {
+    "name" : "ID",
+    "value" : "78"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"back\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从消息通知页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "142d7a3f9982d1e9.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "77", "'跳转到报告详情页面-逻辑代码页面'", "'[\"none\"]'", "'https://test.uwa4d.com/u/got/mono.html/leakage?dataKey=20190826183650ple567d3577&project=6553'", "78", "'[\"back\"]'", "'从消息通知页面'", "None", "1" ]
+}

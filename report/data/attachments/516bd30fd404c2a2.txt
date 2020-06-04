@@ -1,0 +1,2 @@
+ERROR    root:log.py:29 未通过 ===> 测试用例编号：19, 测试用例条目：点击返回
+ERROR    root:log.py:29 截图失败：点击返回

@@ -1,0 +1,5527 @@
+{
+  "491893e7853d19b263c1eef25e5c0733" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "584b84a56c97ccda",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 28为False，跳过测试",
+      "time" : {
+        "start" : 1591265143926,
+        "stop" : 1591265143926,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3776776ce191353a34460d7d30062afd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e8c318a8c9cfba8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 56为False，跳过测试",
+      "time" : {
+        "start" : 1591264985452,
+        "stop" : 1591264985452,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2e08a9d233b6ff5759d8fa935e043c66" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4f290b036c7987f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 74为False，跳过测试",
+      "time" : {
+        "start" : 1591265074623,
+        "stop" : 1591265074623,
+        "duration" : 0
+      }
+    } ]
+  },
+  "096bd20daaff5bae979be068c42c1168" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "312e5d9247c6f14c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 49为False，跳过测试",
+      "time" : {
+        "start" : 1591264985390,
+        "stop" : 1591264985390,
+        "duration" : 0
+      }
+    } ]
+  },
+  "be13b4fe9dc33cd0836d6e6f98516c53" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59b7dede0ee0d82f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 66为False，跳过测试",
+      "time" : {
+        "start" : 1591265074541,
+        "stop" : 1591265074541,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dc5f7f17ca85b6c57eb9766c1342e228" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d11a9c738a9b995",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 34为False，跳过测试",
+      "time" : {
+        "start" : 1591264985219,
+        "stop" : 1591264985219,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f249a7bfcbab94793e70dfa45a0a5d35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa509971052380d0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 22为False，跳过测试",
+      "time" : {
+        "start" : 1591265143842,
+        "stop" : 1591265143842,
+        "duration" : 0
+      }
+    } ]
+  },
+  "aa00a8113b0279313f2e5377212a4a8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa92f5cfc04924b8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 131为False，跳过测试",
+      "time" : {
+        "start" : 1591264986154,
+        "stop" : 1591264986154,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5f6e475052837dbde500ff56f1e8c72e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c44c38f836fdcbf8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 78为False，跳过测试",
+      "time" : {
+        "start" : 1591265074664,
+        "stop" : 1591265074664,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ae9bd21e8b0819d237e006b4da678604" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9747b810503972d9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 53为False，跳过测试",
+      "time" : {
+        "start" : 1591264985426,
+        "stop" : 1591264985426,
+        "duration" : 0
+      }
+    } ]
+  },
+  "df93109094f83a96e7daaca34ca71c48" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68d10af58b2138b6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 31为False，跳过测试",
+      "time" : {
+        "start" : 1591264985171,
+        "stop" : 1591264985171,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4dbdc7dda49996602559754c4347188d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b646057f1bc87f3d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 20为False，跳过测试",
+      "time" : {
+        "start" : 1591265143823,
+        "stop" : 1591265143823,
+        "duration" : 0
+      }
+    } ]
+  },
+  "88053e47777795953ee1101e50b35d87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69bb56fdba9cbe8d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 23为False，跳过测试",
+      "time" : {
+        "start" : 1591265143854,
+        "stop" : 1591265143854,
+        "duration" : 0
+      }
+    } ]
+  },
+  "702499bdcdf1d84a70b81d658afda6c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38d932bcc4e4bb12",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 62为False，跳过测试",
+      "time" : {
+        "start" : 1591264985522,
+        "stop" : 1591264985523,
+        "duration" : 1
+      }
+    } ]
+  },
+  "963277a7cbd551cced7643f24fc6e703" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd7c5716c1366fa6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 36为False，跳过测试",
+      "time" : {
+        "start" : 1591265144012,
+        "stop" : 1591265144012,
+        "duration" : 0
+      }
+    } ]
+  },
+  "65bb5b45e09caa509d6005353bc4aa91" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3df1b622ab959717",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 83为False，跳过测试",
+      "time" : {
+        "start" : 1591264985714,
+        "stop" : 1591264985714,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5ca5a3634be1fb2040443e5ff4941032" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f3189e5c59fc7e5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 139为False，跳过测试",
+      "time" : {
+        "start" : 1591264986228,
+        "stop" : 1591264986228,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9ff20d8991a0888171ca645ef3571fce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42e62d3e94e1bd1b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 121为False，跳过测试",
+      "time" : {
+        "start" : 1591264986065,
+        "stop" : 1591264986065,
+        "duration" : 0
+      }
+    } ]
+  },
+  "aef7103e22cc154390bab5e1a1bfbf75" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8bddcb47d96a521",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 48为False，跳过测试",
+      "time" : {
+        "start" : 1591264985382,
+        "stop" : 1591264985382,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a7ab30ef9412aec908c6ab5ff8542c82" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ee0a2693575c94a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 122为False，跳过测试",
+      "time" : {
+        "start" : 1591264986074,
+        "stop" : 1591264986074,
+        "duration" : 0
+      }
+    } ]
+  },
+  "84d285040967a381e6baae6b2a54e085" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1298e3ffa7486a99",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 84为False，跳过测试",
+      "time" : {
+        "start" : 1591264985723,
+        "stop" : 1591264985723,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b1c93b367c1348f72ef07749827be69c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4d88a4317cb4161",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 68为False，跳过测试",
+      "time" : {
+        "start" : 1591265074562,
+        "stop" : 1591265074562,
+        "duration" : 0
+      }
+    } ]
+  },
+  "85ca458c4f2fba49fbeb40973c0edd53" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dca4c5768e4eec99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265118959,
+        "stop" : 1591265122061,
+        "duration" : 3102
+      }
+    } ]
+  },
+  "75a9459232534637408c5600f692b307" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a3678dd35c8b25d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 109为False，跳过测试",
+      "time" : {
+        "start" : 1591264985958,
+        "stop" : 1591264985958,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5a561581ee57a2162153d74e15a83c60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb86a6029ef5aed",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 33为False，跳过测试",
+      "time" : {
+        "start" : 1591265143977,
+        "stop" : 1591265143978,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4b6791945d58c705f03cc60d202f28e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75ff7b6b67fb3845",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 90为False，跳过测试",
+      "time" : {
+        "start" : 1591264985779,
+        "stop" : 1591264985779,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0999daa8ee45b0dba65bf4be1899f8c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb0e3dcf69c7b0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265130260,
+        "stop" : 1591265133317,
+        "duration" : 3057
+      }
+    } ]
+  },
+  "f7ab9fd7334d26000efb7a04b167be46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2537edae0404eb83",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 138为False，跳过测试",
+      "time" : {
+        "start" : 1591264986219,
+        "stop" : 1591264986219,
+        "duration" : 0
+      }
+    } ]
+  },
+  "491e34bccee2928614e9658a9ba37303" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91182a73a2b04a09",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 52为False，跳过测试",
+      "time" : {
+        "start" : 1591265074395,
+        "stop" : 1591265074395,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f47f44fe2c657f1424158007d04f6ff8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba95f0405ebc01f7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 117为False，跳过测试",
+      "time" : {
+        "start" : 1591264986029,
+        "stop" : 1591264986029,
+        "duration" : 0
+      }
+    } ]
+  },
+  "409391e80b66a10dcf377aea2761c052" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b96712112d810e5f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 130为False，跳过测试",
+      "time" : {
+        "start" : 1591264986145,
+        "stop" : 1591264986145,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f1bbfe43e5bd961127a937df7102108f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd62c951741f2af9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 19为False，跳过测试",
+      "time" : {
+        "start" : 1591265074034,
+        "stop" : 1591265074034,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e59da7a8802e7aa2becea45dde6d51e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea2b7f78b52ab183",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 16为False，跳过测试",
+      "time" : {
+        "start" : 1591265074007,
+        "stop" : 1591265074007,
+        "duration" : 0
+      }
+    } ]
+  },
+  "84044cc98f5192677fd139f9322a52d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bfe9d0754789f35",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 76为False，跳过测试",
+      "time" : {
+        "start" : 1591265074642,
+        "stop" : 1591265074642,
+        "duration" : 0
+      }
+    } ]
+  },
+  "51a10591d355f47ff476c67933371629" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b947ab844313a34c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 120为False，跳过测试",
+      "time" : {
+        "start" : 1591264986056,
+        "stop" : 1591264986056,
+        "duration" : 0
+      }
+    } ]
+  },
+  "db76142132f68399a30b61b0cde95636" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "719f58816978f10b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 68为False，跳过测试",
+      "time" : {
+        "start" : 1591264985576,
+        "stop" : 1591264985576,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6fdfc2b7ea6708688ad8fa4b7823c1f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fb7464ac4ab8092",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265093208,
+        "stop" : 1591265094292,
+        "duration" : 1084
+      }
+    } ]
+  },
+  "be9752e6e85959bc7092dc27823c2113" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34eb2d49aef9c419",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 128为False，跳过测试",
+      "time" : {
+        "start" : 1591264986128,
+        "stop" : 1591264986128,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fafd99bde21a3413f2df17c819afabd9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d185c3667cd48fb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 39为False，跳过测试",
+      "time" : {
+        "start" : 1591265074228,
+        "stop" : 1591265074229,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4f54c43775102d17aa49449fbc401d00" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "227522418a230734",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 17为False，跳过测试",
+      "time" : {
+        "start" : 1591264985046,
+        "stop" : 1591264985046,
+        "duration" : 0
+      }
+    } ]
+  },
+  "74ab801e741dae02fa96d9dc55c30f1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "670650c151993302",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 42为False，跳过测试",
+      "time" : {
+        "start" : 1591264985324,
+        "stop" : 1591264985324,
+        "duration" : 0
+      }
+    } ]
+  },
+  "78b27e3b7ded25070fe26ebfdf204e7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7c23f7642b935ff",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 53为False，跳过测试",
+      "time" : {
+        "start" : 1591265074407,
+        "stop" : 1591265074407,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a13323f9ff03dd36be65a4c9f2f872b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d82d4b5b7c4bcf",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 136为False，跳过测试",
+      "time" : {
+        "start" : 1591264986198,
+        "stop" : 1591264986198,
+        "duration" : 0
+      }
+    } ]
+  },
+  "234c02a857fc07dd5817ef794af09aed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d369929352ebf473",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 25为False，跳过测试",
+      "time" : {
+        "start" : 1591265143886,
+        "stop" : 1591265143886,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0531f4bb3b2477575f4973fe3dfa0962" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75867e18a216af75",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 127为False，跳过测试",
+      "time" : {
+        "start" : 1591264986119,
+        "stop" : 1591264986119,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2e57e8faef6c8124096d2bc69e4204d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "291b31adfd6e0738",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 45为False，跳过测试",
+      "time" : {
+        "start" : 1591265074291,
+        "stop" : 1591265074291,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b8d8d289810e8f6efc43241a053b3cb4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2268823da260186b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265019434,
+        "stop" : 1591265022545,
+        "duration" : 3111
+      }
+    } ]
+  },
+  "438028b4e3272c37d7801cb6d15d9c8d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f696172845a58b00",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 48为False，跳过测试",
+      "time" : {
+        "start" : 1591265074331,
+        "stop" : 1591265074331,
+        "duration" : 0
+      }
+    } ]
+  },
+  "90ed81064fb7aacdedce3c58275a3c93" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19dd532f9c9b7981",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 29为False，跳过测试",
+      "time" : {
+        "start" : 1591265074125,
+        "stop" : 1591265074125,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6e73bb5a3d9fa76b33e37c8655fb7810" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6dbe1b1db9975c2c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 100为False，跳过测试",
+      "time" : {
+        "start" : 1591264985880,
+        "stop" : 1591264985880,
+        "duration" : 0
+      }
+    } ]
+  },
+  "82d188eb989ef9cb10ff13b0326598d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b8cad232064753a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 58为False，跳过测试",
+      "time" : {
+        "start" : 1591265074458,
+        "stop" : 1591265074458,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c84c98a528c0c9421700d0584681fb64" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73d100e794cf8cb0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 96为False，跳过测试",
+      "time" : {
+        "start" : 1591264985839,
+        "stop" : 1591264985839,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a5ad5e94a753433f65c21cce3ded079c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b4db3cecdda06cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753473685,
+        "stop" : 1588753476771,
+        "duration" : 3086
+      }
+    } ]
+  },
+  "fb4371b4e813bf28b4859e57c4940875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a2924180c92dc7e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 34为False，跳过测试",
+      "time" : {
+        "start" : 1591265143988,
+        "stop" : 1591265143988,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c71be8f9a75cf74254074c34134bf9b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "943dffc4de03c0bb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 18为False，跳过测试",
+      "time" : {
+        "start" : 1591264985055,
+        "stop" : 1591264985055,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7592110ab15c550e3d7960fc3bb1013e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfa8bd80be7f617d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 73为False，跳过测试",
+      "time" : {
+        "start" : 1591264985623,
+        "stop" : 1591264985623,
+        "duration" : 0
+      }
+    } ]
+  },
+  "98dd67486b19114ad5048e83aed5aac6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3119004ab86428a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753876018,
+        "stop" : 1588753877084,
+        "duration" : 1066
+      }
+    } ]
+  },
+  "62219270d802dec57e4aa57ce0408129" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86b76cfc30d9891e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 106为False，跳过测试",
+      "time" : {
+        "start" : 1591264985932,
+        "stop" : 1591264985932,
+        "duration" : 0
+      }
+    } ]
+  },
+  "60c9e1be331473758c80aef79b90c5fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5645bdb83edd0ac",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 51为False，跳过测试",
+      "time" : {
+        "start" : 1591265074385,
+        "stop" : 1591265074385,
+        "duration" : 0
+      }
+    } ]
+  },
+  "161ebb1e38ad8edd5a631b6d47809934" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5eaf04e61c8b22a7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 39为False，跳过测试",
+      "time" : {
+        "start" : 1591264985272,
+        "stop" : 1591264985272,
+        "duration" : 0
+      }
+    } ]
+  },
+  "862a543d79c68d480012762b27183e03" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bedd1a65229006f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753440675,
+        "stop" : 1588753441765,
+        "duration" : 1090
+      }
+    } ]
+  },
+  "8d8f5944824464486a272e74e73286eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c339a68308689b17",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 31为False，跳过测试",
+      "time" : {
+        "start" : 1591265074144,
+        "stop" : 1591265074144,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3a5da5ae3ad08019735f922943a1373c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff75d0967f565546",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 101为False，跳过测试",
+      "time" : {
+        "start" : 1591264985889,
+        "stop" : 1591264985889,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1a94f9640618800789a0e30fe4357aab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24d227d2aa46f4f5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 22为False，跳过测试",
+      "time" : {
+        "start" : 1591265074062,
+        "stop" : 1591265074062,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e6d9b1b57b0a904cd8a680393774b951" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b08226675c415b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265107808,
+        "stop" : 1591265110878,
+        "duration" : 3070
+      }
+    } ]
+  },
+  "6a0ba8fd1d28a0c54b6a2be21a55514e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2696480c3819e62",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 65为False，跳过测试",
+      "time" : {
+        "start" : 1591264985550,
+        "stop" : 1591264985550,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5c8e23f9c1a1364450798805aac4141a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "561edb687e7681b6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 36为False，跳过测试",
+      "time" : {
+        "start" : 1591265074198,
+        "stop" : 1591265074198,
+        "duration" : 0
+      }
+    } ]
+  },
+  "79b9c730ce64450d1dc7fd91dccba79d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e7618344198255",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 118为False，跳过测试",
+      "time" : {
+        "start" : 1591264986038,
+        "stop" : 1591264986038,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0ff19d89d923b5498f74dbf9c27a7569" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56f261483a351312",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264948957,
+        "stop" : 1591264952060,
+        "duration" : 3103
+      }
+    } ]
+  },
+  "1563e05c809d1745dddefba152f11574" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a078f8703872ae42",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 28为False，跳过测试",
+      "time" : {
+        "start" : 1591264985145,
+        "stop" : 1591264985145,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e379dab372ccf3278605fcc7c5644409" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b21d270035d3fe3c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 140为False，跳过测试",
+      "time" : {
+        "start" : 1591264986237,
+        "stop" : 1591264986237,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f04c49172730c8eaf66e083710dcf1d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9baa9ef38144b759",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753877091,
+        "stop" : 1588753878270,
+        "duration" : 1179
+      }
+    } ]
+  },
+  "af0df6c1058d1cb76f0b40d189524d33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f49b3b77d1444c1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753436155,
+        "stop" : 1588753440665,
+        "duration" : 4510
+      }
+    } ]
+  },
+  "abf05611fb38eae2a427d95dc6f627b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c3123c4d82a5a58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264927044,
+        "stop" : 1591264930162,
+        "duration" : 3118
+      }
+    } ]
+  },
+  "8ef2b2dc96d3db50f7fd2e61727aec62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a31d80c397edd197",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 35为False，跳过测试",
+      "time" : {
+        "start" : 1591265074187,
+        "stop" : 1591265074187,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cc2c13e117767c6b4cf916e85105e1f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "966c7d64d843ca06",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 71为False，跳过测试",
+      "time" : {
+        "start" : 1591265074592,
+        "stop" : 1591265074592,
+        "duration" : 0
+      }
+    } ]
+  },
+  "efe6a7b9121a268a8d166992fb72d479" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5bd2540b661648",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 91为False，跳过测试",
+      "time" : {
+        "start" : 1591264985790,
+        "stop" : 1591264985790,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6ae0af0696465fce2f8456e59e7f02c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7a8ec61b3c9b4eb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 89为False，跳过测试",
+      "time" : {
+        "start" : 1591265074781,
+        "stop" : 1591265074781,
+        "duration" : 0
+      }
+    } ]
+  },
+  "51021b0ae59ffa8a9daf58a148018e36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61f0f1e5f52d47",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 20为False，跳过测试",
+      "time" : {
+        "start" : 1591264985073,
+        "stop" : 1591264985073,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0a14ebc5065f8a5461e6957c0b996a03" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9240dcb1d2104225",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 57为False，跳过测试",
+      "time" : {
+        "start" : 1591264985461,
+        "stop" : 1591264985461,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ef68b8c251e5af454494ab7537f81e93" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4426ed89c2c50cd",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 35为False，跳过测试",
+      "time" : {
+        "start" : 1591264985232,
+        "stop" : 1591264985232,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dacb4fbab400879d54cb8bc3b5d611db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e351193f7bb0d9b2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 25为False，跳过测试",
+      "time" : {
+        "start" : 1591264985116,
+        "stop" : 1591264985116,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cb6ee308112de7573c91d3da376b962e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca06606d93971456",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 37为False，跳过测试",
+      "time" : {
+        "start" : 1591265074207,
+        "stop" : 1591265074207,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b47354ae2d0ecf5cae3667ca9784bd69" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc4854f3b47b0e52",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 15为False，跳过测试",
+      "time" : {
+        "start" : 1591265073986,
+        "stop" : 1591265073986,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7ad4f9f9d1ff52172029a9bf440926d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55596042fecd4aae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265041313,
+        "stop" : 1591265043328,
+        "duration" : 2015
+      }
+    } ]
+  },
+  "598c30e574b90c9b44d3fb82980fe84b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "121ba5f62249225f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 64为False，跳过测试",
+      "time" : {
+        "start" : 1591264985541,
+        "stop" : 1591264985541,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c5f057494f7a28074fa330f52958d98d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe67ded39ae00a2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264999908,
+        "stop" : 1591265004479,
+        "duration" : 4571
+      }
+    } ]
+  },
+  "1641dc99131a2ed45cd788f754876368" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7714e3051a7633be",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 93为False，跳过测试",
+      "time" : {
+        "start" : 1591264985811,
+        "stop" : 1591264985811,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e79fc24ab7baded80c709b8fbbd6d199" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b705a4965a662e2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 60为False，跳过测试",
+      "time" : {
+        "start" : 1591264985487,
+        "stop" : 1591264985487,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cb90710517abfa9324d744a483db2af8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ecaa3f732c7da4a4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 69为False，跳过测试",
+      "time" : {
+        "start" : 1591265074572,
+        "stop" : 1591265074572,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3e35ae08402933c72a17e952894f6814" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83c72f25128a267b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 32为False，跳过测试",
+      "time" : {
+        "start" : 1591265143967,
+        "stop" : 1591265143967,
+        "duration" : 0
+      }
+    } ]
+  },
+  "013d23c8c54271fee718b9e306f6b5ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a1400c50d401381",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 27为False，跳过测试",
+      "time" : {
+        "start" : 1591265074108,
+        "stop" : 1591265074108,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f293b7ded51e0886a125e4459c7852bc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a09a8cbf3db0e4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265110903,
+        "stop" : 1591265112677,
+        "duration" : 1774
+      }
+    } ]
+  },
+  "4cc1b69bac69ee2665ae5eaab8b383d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b85604c8421d204",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 61为False，跳过测试",
+      "time" : {
+        "start" : 1591264985511,
+        "stop" : 1591264985511,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bc1de448fc12b939ea3451954e1632c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fff843a8165d5da",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 55为False，跳过测试",
+      "time" : {
+        "start" : 1591264985443,
+        "stop" : 1591264985443,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f2cedcef0a3c88f7528148ae522ed974" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f586b1e7d9cd925f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265028814,
+        "stop" : 1591265031941,
+        "duration" : 3127
+      }
+    } ]
+  },
+  "3ff7c65f5b4a7c4f091bc86084b7c23b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbe3de1891e04648",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 44为False，跳过测试",
+      "time" : {
+        "start" : 1591264985345,
+        "stop" : 1591264985345,
+        "duration" : 0
+      }
+    } ]
+  },
+  "426530435efd8e08c9132bf52db66fc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd4cab31d8610f6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 55为False，跳过测试",
+      "time" : {
+        "start" : 1591265074427,
+        "stop" : 1591265074427,
+        "duration" : 0
+      }
+    } ]
+  },
+  "631344aefdb8526364ca489ee3f60928" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80459ec8f2b2ac88",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 83为False，跳过测试",
+      "time" : {
+        "start" : 1591265074717,
+        "stop" : 1591265074717,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d41860eb51e7159380fbcdb5c8724cc5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "654a0c1f19ff8080",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265012289,
+        "stop" : 1591265016261,
+        "duration" : 3972
+      }
+    } ]
+  },
+  "8cb633589464d0a8bc00b700a78c39c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18590c128b96fac9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 88为False，跳过测试",
+      "time" : {
+        "start" : 1591265074770,
+        "stop" : 1591265074770,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5b15ceef9aaff154708eae46888a5728" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74972b5048368721",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 56为False，跳过测试",
+      "time" : {
+        "start" : 1591265074438,
+        "stop" : 1591265074438,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2cf4bb75dec35bd02bb4131749faa0aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "835f81d79dc3da22",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 30为False，跳过测试",
+      "time" : {
+        "start" : 1591265143948,
+        "stop" : 1591265143948,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9edf625becbb8c1ac7f8ead109bd64c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9f9fdccda57ac4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753448415,
+        "stop" : 1588753458016,
+        "duration" : 9601
+      }
+    } ]
+  },
+  "c5dcfecd0a6f23ed91512eabe17f3c7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c091100753781b6b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 67为False，跳过测试",
+      "time" : {
+        "start" : 1591265074552,
+        "stop" : 1591265074552,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4b27f537d5d0eed3320362e055d986f7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4159ea553815041a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 112为False，跳过测试",
+      "time" : {
+        "start" : 1591264985984,
+        "stop" : 1591264985984,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d11b0d957d5727d5595c5001f91a9eef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de546973b4201b04",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 26为False，跳过测试",
+      "time" : {
+        "start" : 1591264985127,
+        "stop" : 1591264985128,
+        "duration" : 1
+      }
+    } ]
+  },
+  "416b0b50a02e112e40f681c498bc4294" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "769bf77e2000cd0f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 141为False，跳过测试",
+      "time" : {
+        "start" : 1591264986246,
+        "stop" : 1591264986246,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1bb516f0e5506233c4d26cf36c344bf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd403d88e899776c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 25为False，跳过测试",
+      "time" : {
+        "start" : 1591265074090,
+        "stop" : 1591265074090,
+        "duration" : 0
+      }
+    } ]
+  },
+  "72db4d7dae653ddbdd6fd7955e8cbf0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5eff6effe48b2ee2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265022554,
+        "stop" : 1591265025674,
+        "duration" : 3120
+      }
+    } ]
+  },
+  "c2f3db1c6f93b41188d5ffbbb06e2793" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbc7dce0f3d33fce",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 29为False，跳过测试",
+      "time" : {
+        "start" : 1591264985153,
+        "stop" : 1591264985153,
+        "duration" : 0
+      }
+    } ]
+  },
+  "05fcf30289d91fa03d811cafbddcaad4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d38178116bb28d89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264933280,
+        "stop" : 1591264936386,
+        "duration" : 3106
+      }
+    } ]
+  },
+  "79f133e8f6e441c8138a8bb06455fffa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5638adc8fe704ecc",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 44为False，跳过测试",
+      "time" : {
+        "start" : 1591265074281,
+        "stop" : 1591265074281,
+        "duration" : 0
+      }
+    } ]
+  },
+  "da3929eee0fe45197ee2dce19749ffb0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "717a07dcefe5f965",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 38为False，跳过测试",
+      "time" : {
+        "start" : 1591265144044,
+        "stop" : 1591265144044,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e8d047e03c4562bca25cac9dec258743" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2992c7cbcc459fe",
+      "status" : "failed",
+      "statusDetails" : "Failed: [\"none\"] undefind",
+      "time" : {
+        "start" : 1591265141493,
+        "stop" : 1591265143374,
+        "duration" : 1881
+      }
+    } ]
+  },
+  "304db3ee24c03ca32018ccdcd417866f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9bc667dc8bec3b8e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 134为False，跳过测试",
+      "time" : {
+        "start" : 1591264986180,
+        "stop" : 1591264986180,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d8c10a12f254c7d1290d0e5460cbad54" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "376102b245fc442f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 85为False，跳过测试",
+      "time" : {
+        "start" : 1591265074736,
+        "stop" : 1591265074736,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d83e552ca8685ff87e2c9beff0dd85f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "498f1ff017bb95e1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 23为False，跳过测试",
+      "time" : {
+        "start" : 1591265074071,
+        "stop" : 1591265074071,
+        "duration" : 0
+      }
+    } ]
+  },
+  "780aa531dc864eaab94e4410313a63ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f535af6fd95fbd5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 75为False，跳过测试",
+      "time" : {
+        "start" : 1591264985643,
+        "stop" : 1591264985643,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3a06fbe803e120e2b225057c46993311" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca895cd835044f81",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 57为False，跳过测试",
+      "time" : {
+        "start" : 1591265074449,
+        "stop" : 1591265074450,
+        "duration" : 1
+      }
+    } ]
+  },
+  "de90fb3c5c53bd88b18cc472a2c54c6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "249f5bb91be67277",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 80为False，跳过测试",
+      "time" : {
+        "start" : 1591264985687,
+        "stop" : 1591264985687,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e928e23c80bedde7beb809dc68279fd1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdf352bca3cf2381",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753907018,
+        "stop" : 1588753910122,
+        "duration" : 3104
+      }
+    } ]
+  },
+  "8325218dc7dffe9db6635100b00e7d62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "386c07392ee0ed74",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 74为False，跳过测试",
+      "time" : {
+        "start" : 1591264985633,
+        "stop" : 1591264985633,
+        "duration" : 0
+      }
+    } ]
+  },
+  "47734ebfc8ecb7de418762c69df0509d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af6381dd55437949",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 51为False，跳过测试",
+      "time" : {
+        "start" : 1591264985408,
+        "stop" : 1591264985408,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2467a9d7560d269b7d1b487a6ea0b641" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81ba7823c0778781",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 71为False，跳过测试",
+      "time" : {
+        "start" : 1591264985605,
+        "stop" : 1591264985605,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cef89098adfe2a2de6ff14ca6826b482" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e152385fdb8149e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753900812,
+        "stop" : 1588753903901,
+        "duration" : 3089
+      }
+    } ]
+  },
+  "404fdb0f629deb43dccaa4137a377a28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcdabb95edaee45d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 72为False，跳过测试",
+      "time" : {
+        "start" : 1591265074603,
+        "stop" : 1591265074603,
+        "duration" : 0
+      }
+    } ]
+  },
+  "eb52ac75e767b85f672ca5ff8e08a5d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c963f1b07def553e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 17为False，跳过测试",
+      "time" : {
+        "start" : 1591265074016,
+        "stop" : 1591265074016,
+        "duration" : 0
+      }
+    } ]
+  },
+  "407734b4fcbc535cf3a727cc4470dd7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f04514a86f8937f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 29为False，跳过测试",
+      "time" : {
+        "start" : 1591265143937,
+        "stop" : 1591265143937,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6f514b05b2f22114772bf79f020d559b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cd900a27c26b824",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265016270,
+        "stop" : 1591265019425,
+        "duration" : 3155
+      }
+    } ]
+  },
+  "54cf9867c87ecbe42fe90489079b3056" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f90dc3141b317c49",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 124为False，跳过测试",
+      "time" : {
+        "start" : 1591264986092,
+        "stop" : 1591264986092,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c8b812f3cd802590403f7c1464b55c31" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "873776da3129e17e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 43为False，跳过测试",
+      "time" : {
+        "start" : 1591264985336,
+        "stop" : 1591264985336,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e398aa3d6d0cb8623bb9cc8328eb41d0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36a21f0343012f6c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 20为False，跳过测试",
+      "time" : {
+        "start" : 1591265074044,
+        "stop" : 1591265074044,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9077ce3ac5cc714ff63855cc13d9f771" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1fcf13e2bc7a864e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 85为False，跳过测试",
+      "time" : {
+        "start" : 1591264985732,
+        "stop" : 1591264985732,
+        "duration" : 0
+      }
+    } ]
+  },
+  "465857e72bf8e3ddc8aa7140601bb63f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a408db50de8b9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 75为False，跳过测试",
+      "time" : {
+        "start" : 1591265074633,
+        "stop" : 1591265074633,
+        "duration" : 0
+      }
+    } ]
+  },
+  "398611a32c845a4e2383a0759f6eae6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2181da56a68832e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 52为False，跳过测试",
+      "time" : {
+        "start" : 1591264985417,
+        "stop" : 1591264985417,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9806fb8d8e152d794e26775d7046078f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "762cb7e41d3072f2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 50为False，跳过测试",
+      "time" : {
+        "start" : 1591264985400,
+        "stop" : 1591264985400,
+        "duration" : 0
+      }
+    } ]
+  },
+  "73fea04c06756f0c01d0ecd6b67ab8a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47abb14a33f8c7c6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 79为False，跳过测试",
+      "time" : {
+        "start" : 1591264985678,
+        "stop" : 1591264985678,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cdc73411ed2531727f821851cd51483f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3b52b924728d5b6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 22为False，跳过测试",
+      "time" : {
+        "start" : 1591264985090,
+        "stop" : 1591264985090,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ab33e64c74ef603cf352988a5d45bfe5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d01e9ece07e58940",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 26为False，跳过测试",
+      "time" : {
+        "start" : 1591265074099,
+        "stop" : 1591265074099,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2a274c275a3d1ef006905bddcf48553f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "289b673336830039",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265125184,
+        "stop" : 1591265127070,
+        "duration" : 1886
+      }
+    } ]
+  },
+  "654a04ebca317e4370c9d13fdd5e2022" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "808441cbbbb759",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 73为False，跳过测试",
+      "time" : {
+        "start" : 1591265074613,
+        "stop" : 1591265074613,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3e1bfa72378edcc015564b09238071ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c57626427e823d6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 82为False，跳过测试",
+      "time" : {
+        "start" : 1591265074704,
+        "stop" : 1591265074704,
+        "duration" : 0
+      }
+    } ]
+  },
+  "57717c8fa0f67225ba24019c5ecd31ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec2fcc25444d916a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 119为False，跳过测试",
+      "time" : {
+        "start" : 1591264986047,
+        "stop" : 1591264986047,
+        "duration" : 0
+      }
+    } ]
+  },
+  "916321fc31fbb78359a12a3e3ed43675" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7aa3b23c1798418e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588754121505,
+        "stop" : 1588754124825,
+        "duration" : 3320
+      }
+    } ]
+  },
+  "8a756ecf2645c894fdcc157417cf01f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d15e3207ebdb2c51",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 47为False，跳过测试",
+      "time" : {
+        "start" : 1591265074317,
+        "stop" : 1591265074318,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5b23933d1a497fa8b05c862b49ca0e3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e5424dc8eab8b4c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 32为False，跳过测试",
+      "time" : {
+        "start" : 1591264985186,
+        "stop" : 1591264985187,
+        "duration" : 1
+      }
+    } ]
+  },
+  "481219bb0f7cfdedc2a89423a2a05c42" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cc3198df659354c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265025682,
+        "stop" : 1591265028805,
+        "duration" : 3123
+      }
+    } ]
+  },
+  "38dd711ab3568b2aefc06bec0001db1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e927f9d84c20646c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 123为False，跳过测试",
+      "time" : {
+        "start" : 1591264986083,
+        "stop" : 1591264986083,
+        "duration" : 0
+      }
+    } ]
+  },
+  "32fe17734201061b8904654422dc7caf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a42cb56c925b3878",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264930176,
+        "stop" : 1591264933271,
+        "duration" : 3095
+      }
+    } ]
+  },
+  "409eaa49717bbd9b9a9a0f2ce7286ba5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f99c31a5cf7aeb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265088754,
+        "stop" : 1591265093199,
+        "duration" : 4445
+      }
+    } ]
+  },
+  "d3046ffe2712f2427e3b039c534be139" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8ed9ec701cf2dcc",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 32为False，跳过测试",
+      "time" : {
+        "start" : 1591265074155,
+        "stop" : 1591265074155,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2627f254a73e786d90a39556092643c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50c471b20dd52825",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 88为False，跳过测试",
+      "time" : {
+        "start" : 1591264985760,
+        "stop" : 1591264985760,
+        "duration" : 0
+      }
+    } ]
+  },
+  "39cacdbfc79079e7e2af3c52488a58d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e42a9aa256b1eba8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 81为False，跳过测试",
+      "time" : {
+        "start" : 1591265074692,
+        "stop" : 1591265074692,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bfbcd64c01349c181338842892edc874" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a42535d71a9add63",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 24为False，跳过测试",
+      "time" : {
+        "start" : 1591265143873,
+        "stop" : 1591265143873,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8ec317660f92306bc8db9226a368c3cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbb09ef3e713c315",
+      "status" : "broken",
+      "statusDetails" : "TypeError: decoding str is not supported",
+      "time" : {
+        "start" : 1591264954390,
+        "stop" : 1591264984649,
+        "duration" : 30259
+      }
+    } ]
+  },
+  "29c075d01bb5e8a35497962572e55900" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e9e82176ec165a4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 108为False，跳过测试",
+      "time" : {
+        "start" : 1591264985949,
+        "stop" : 1591264985949,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dac448af46458136fdc8e6175b183862" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15feecae4534cd0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264939487,
+        "stop" : 1591264942650,
+        "duration" : 3163
+      }
+    } ]
+  },
+  "d22f146e6fe9896e76a764abed1bc0e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "47bf10a7d527ebb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265035080,
+        "stop" : 1591265038210,
+        "duration" : 3130
+      }
+    } ]
+  },
+  "8e031953b0afcf108fa036f902109e12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b98a12d17b85ee8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 137为False，跳过测试",
+      "time" : {
+        "start" : 1591264986210,
+        "stop" : 1591264986210,
+        "duration" : 0
+      }
+    } ]
+  },
+  "27c9398ebf7722a1c682cb3457a16c06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3ef20095b0a9dff",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 86为False，跳过测试",
+      "time" : {
+        "start" : 1591264985741,
+        "stop" : 1591264985741,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4f5bd353d50008817e9cace7cbda7064" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f42221266e51a6b6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 18为False，跳过测试",
+      "time" : {
+        "start" : 1591265074025,
+        "stop" : 1591265074025,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d097bfcf90069f502333197848fd6dda" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2db3abc6894a851e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 38为False，跳过测试",
+      "time" : {
+        "start" : 1591264985264,
+        "stop" : 1591264985264,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5332149849318b6df26933b3fc5ed9a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3432b072d3c9959c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 81为False，跳过测试",
+      "time" : {
+        "start" : 1591264985696,
+        "stop" : 1591264985696,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a3612a21bc2c6fb947171aa02d5f961b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "667ba49dac9a0e87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753441788,
+        "stop" : 1588753442964,
+        "duration" : 1176
+      }
+    } ]
+  },
+  "3743cacff8944c4f062d85ae24be95c5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2cc77e2293d23750",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 39为False，跳过测试",
+      "time" : {
+        "start" : 1591265144055,
+        "stop" : 1591265144055,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d244e335e4e37d0ea0862a1985391d62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "201a6abd9d8b8db6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 19为False，跳过测试",
+      "time" : {
+        "start" : 1591265143809,
+        "stop" : 1591265143809,
+        "duration" : 0
+      }
+    } ]
+  },
+  "958c552f60b4b735e54a4e1fd7e54393" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8735b39b684143d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753881683,
+        "stop" : 1588753885210,
+        "duration" : 3527
+      }
+    } ]
+  },
+  "dab024abcbd0e233782921a05d60235a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdd126f8a081091c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265115832,
+        "stop" : 1591265118949,
+        "duration" : 3117
+      }
+    } ]
+  },
+  "a429b12159d1feb26d06d4ab624bf8f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6f25112b7eb01a9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 133为False，跳过测试",
+      "time" : {
+        "start" : 1591264986171,
+        "stop" : 1591264986172,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ad844624aafdea8452814c0a9b629565" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da4db066b1f19f8b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 87为False，跳过测试",
+      "time" : {
+        "start" : 1591265074757,
+        "stop" : 1591265074757,
+        "duration" : 0
+      }
+    } ]
+  },
+  "556271996208303254be35e4bed060d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e62cf6031d568937",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 65为False，跳过测试",
+      "time" : {
+        "start" : 1591265074532,
+        "stop" : 1591265074532,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d57dc8457755e38c8201f5e40f150426" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c13fbe3c9a7d9b1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 104为False，跳过测试",
+      "time" : {
+        "start" : 1591264985915,
+        "stop" : 1591264985915,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b0ed9c849977cd8a27a3add400033af1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81453c1bbef5e66a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 72为False，跳过测试",
+      "time" : {
+        "start" : 1591264985614,
+        "stop" : 1591264985614,
+        "duration" : 0
+      }
+    } ]
+  },
+  "176051484ae7208cd49c386001f539da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98233e0433768989",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 77为False，跳过测试",
+      "time" : {
+        "start" : 1591264985661,
+        "stop" : 1591264985661,
+        "duration" : 0
+      }
+    } ]
+  },
+  "71dee325779f5df26211d65d080574f4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6872e89f89137997",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 102为False，跳过测试",
+      "time" : {
+        "start" : 1591264985897,
+        "stop" : 1591264985897,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b5b8f192b91cf3e4e07620711142f97a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd2fad04877d80f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753871694,
+        "stop" : 1588753876003,
+        "duration" : 4309
+      }
+    } ]
+  },
+  "462fb2d9b62922c6f26552d1a16faea6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f68350ae4636420",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 42为False，跳过测试",
+      "time" : {
+        "start" : 1591265074259,
+        "stop" : 1591265074259,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4a78dfc99e59de67fdbd34b6dfe4435b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ffb0a4dfc62177b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 69为False，跳过测试",
+      "time" : {
+        "start" : 1591264985585,
+        "stop" : 1591264985585,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4973f07fb613cd2c996c15f6e6df7f87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b7b27363f29a931",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 41为False，跳过测试",
+      "time" : {
+        "start" : 1591265074250,
+        "stop" : 1591265074251,
+        "duration" : 1
+      }
+    } ]
+  },
+  "84af6c340d0303c9e94162e2284419d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1aba897883af839",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 36为False，跳过测试",
+      "time" : {
+        "start" : 1591264985242,
+        "stop" : 1591264985242,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6d2a4201f7a67a40e2f880097feb5773" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "282a15d4a1da3c92",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 84为False，跳过测试",
+      "time" : {
+        "start" : 1591265074725,
+        "stop" : 1591265074726,
+        "duration" : 1
+      }
+    } ]
+  },
+  "576fbbed3207ed6ac8f46d05852669cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb118a22d9220d4e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 105为False，跳过测试",
+      "time" : {
+        "start" : 1591264985923,
+        "stop" : 1591264985923,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3eaa6e9c5564eab3d7292a08922e4fef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9570f0591e95be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265139503,
+        "stop" : 1591265141475,
+        "duration" : 1972
+      }
+    } ]
+  },
+  "3f20a7129d9c28bfea628191c59438e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf0ffb7b090cf768",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 45为False，跳过测试",
+      "time" : {
+        "start" : 1591264985354,
+        "stop" : 1591264985354,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5bab30d0e2e4461c41b6e9e29d56a7e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a12bc6032fccbe23",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 87为False，跳过测试",
+      "time" : {
+        "start" : 1591264985750,
+        "stop" : 1591264985750,
+        "duration" : 0
+      }
+    } ]
+  },
+  "900e135624e6ba4ba64daf2c9851d2c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d633eeca32b544e6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 31为False，跳过测试",
+      "time" : {
+        "start" : 1591265143957,
+        "stop" : 1591265143957,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0f66b1cba77e8c8a85e2b5c927f02be3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b24d96186aeb10b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 63为False，跳过测试",
+      "time" : {
+        "start" : 1591264985532,
+        "stop" : 1591264985532,
+        "duration" : 0
+      }
+    } ]
+  },
+  "251a76a4650d138c81bb0d2d1c412167" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df15986bf99e5896",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 61为False，跳过测试",
+      "time" : {
+        "start" : 1591265074490,
+        "stop" : 1591265074490,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f094c06651cc7953b6e2ebe3749c60d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0b05fc006342842",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 132为False，跳过测试",
+      "time" : {
+        "start" : 1591264986163,
+        "stop" : 1591264986163,
+        "duration" : 0
+      }
+    } ]
+  },
+  "22055e14bdb3cc239f80e07ea0dfe654" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a323c1c0f6662046",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 126为False，跳过测试",
+      "time" : {
+        "start" : 1591264986110,
+        "stop" : 1591264986110,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ffcb197df21cb63675ec034e2b168520" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "daf3a1a899cf683d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 58为False，跳过测试",
+      "time" : {
+        "start" : 1591264985469,
+        "stop" : 1591264985470,
+        "duration" : 1
+      }
+    } ]
+  },
+  "71a5c381f57528fa921216424bcabd11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f1dd9ce4541d47c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 59为False，跳过测试",
+      "time" : {
+        "start" : 1591265074470,
+        "stop" : 1591265074470,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3a2047cd4c00f72022fab1a9722da965" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "810ff75008f7a6e6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 41为False，跳过测试",
+      "time" : {
+        "start" : 1591264985295,
+        "stop" : 1591264985295,
+        "duration" : 0
+      }
+    } ]
+  },
+  "04b715269e1311df216902b3447d333c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87f12692e5bc407c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 113为False，跳过测试",
+      "time" : {
+        "start" : 1591264985995,
+        "stop" : 1591264985995,
+        "duration" : 0
+      }
+    } ]
+  },
+  "596e42e94df727136d5e0303aaf54141" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2f1af3801da0c98",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 54为False，跳过测试",
+      "time" : {
+        "start" : 1591265074418,
+        "stop" : 1591265074418,
+        "duration" : 0
+      }
+    } ]
+  },
+  "48d24cf13291d7bdc5c74c1a34f8f564" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30df214607a9ecd2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 34为False，跳过测试",
+      "time" : {
+        "start" : 1591265074175,
+        "stop" : 1591265074175,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c7b2feb8e49e7221a8b736b927da4318" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d522b91f2a2f1458",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 82为False，跳过测试",
+      "time" : {
+        "start" : 1591264985705,
+        "stop" : 1591264985705,
+        "duration" : 0
+      }
+    } ]
+  },
+  "14caf0d4d5da375b0d6ecde8f438c1f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3011288002175d20",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 114为False，跳过测试",
+      "time" : {
+        "start" : 1591264986003,
+        "stop" : 1591264986004,
+        "duration" : 1
+      }
+    } ]
+  },
+  "30d2321bd96bb9bfe381b008b554a6da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1809934c6fa2cd8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 110为False，跳过测试",
+      "time" : {
+        "start" : 1591264985967,
+        "stop" : 1591264985967,
+        "duration" : 0
+      }
+    } ]
+  },
+  "323a9652d89e2519cea4aaa368fb1ddd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "823c408738494ac5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264945783,
+        "stop" : 1591264948948,
+        "duration" : 3165
+      }
+    } ]
+  },
+  "e00f7166d19ecad8fb744a54204efd1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae4e6b806f470a10",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 38为False，跳过测试",
+      "time" : {
+        "start" : 1591265074219,
+        "stop" : 1591265074219,
+        "duration" : 0
+      }
+    } ]
+  },
+  "15f4ee8c2bc236143905d2ef6bf70968" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdf6349d99c6ed23",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 33为False，跳过测试",
+      "time" : {
+        "start" : 1591264985205,
+        "stop" : 1591264985205,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ddeaa8876b5447c495d8e06b833ff850" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "177c311bb0606616",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 115为False，跳过测试",
+      "time" : {
+        "start" : 1591264986012,
+        "stop" : 1591264986013,
+        "duration" : 1
+      }
+    } ]
+  },
+  "0bf3a0386fd361cc32dd5376079ab839" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc19619c95fe3a8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265101098,
+        "stop" : 1591265104596,
+        "duration" : 3498
+      }
+    } ]
+  },
+  "4f514c146cc6f572afb593767134dec1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b634a132aaf89d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 94为False，跳过测试",
+      "time" : {
+        "start" : 1591264985821,
+        "stop" : 1591264985821,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8b1ad51c997df0f40d36527739d4bbc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a65e9c4d4cdf04e6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 26为False，跳过测试",
+      "time" : {
+        "start" : 1591265143901,
+        "stop" : 1591265143901,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9819456770417957e3a2b03294144a61" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e87475b7b2a6fc9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 66为False，跳过测试",
+      "time" : {
+        "start" : 1591264985558,
+        "stop" : 1591264985559,
+        "duration" : 1
+      }
+    } ]
+  },
+  "18839421f1cef8faa9e728ef6622c716" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b92819a6a2680f0e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 63为False，跳过测试",
+      "time" : {
+        "start" : 1591265074510,
+        "stop" : 1591265074510,
+        "duration" : 0
+      }
+    } ]
+  },
+  "392fd23ce7136799541c29da0edce7ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdd1860ff5c0174e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 43为False，跳过测试",
+      "time" : {
+        "start" : 1591265074270,
+        "stop" : 1591265074270,
+        "duration" : 0
+      }
+    } ]
+  },
+  "153b124d092534ef6af777ca02cb0cac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "308db5484bcc2a2f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 64为False，跳过测试",
+      "time" : {
+        "start" : 1591265074522,
+        "stop" : 1591265074522,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ed3056578ca1f8a023a926ab40ead474" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15873e796e28f49c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 46为False，跳过测试",
+      "time" : {
+        "start" : 1591265074305,
+        "stop" : 1591265074305,
+        "duration" : 0
+      }
+    } ]
+  },
+  "008b129345b42742a86f3555e58f9738" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a94753ce844b430f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 19为False，跳过测试",
+      "time" : {
+        "start" : 1591264985064,
+        "stop" : 1591264985064,
+        "duration" : 0
+      }
+    } ]
+  },
+  "89997732ebb179a79f14dec6daaf7c9b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b879de24b2d994a5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 76为False，跳过测试",
+      "time" : {
+        "start" : 1591264985651,
+        "stop" : 1591264985651,
+        "duration" : 0
+      }
+    } ]
+  },
+  "02e5f9ff10292abd89b3d446d4075813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7621e9f58d1b3df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753878280,
+        "stop" : 1588753881676,
+        "duration" : 3396
+      }
+    } ]
+  },
+  "d79cc67e619f2c041b27d56df050d987" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25e8d06729f5884a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 77为False，跳过测试",
+      "time" : {
+        "start" : 1591265074653,
+        "stop" : 1591265074653,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2450427312c00e5a033ac5cd7b26da85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cef56c9d81c71f1a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 24为False，跳过测试",
+      "time" : {
+        "start" : 1591264985107,
+        "stop" : 1591264985107,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d6543412073fddae33f975914bd768e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7dccf591c87c71f3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 54为False，跳过测试",
+      "time" : {
+        "start" : 1591264985434,
+        "stop" : 1591264985434,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bb4264927a27f7ee2eaf80c1e1932d75" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c9dbf6aa4f06303",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 107为False，跳过测试",
+      "time" : {
+        "start" : 1591264985941,
+        "stop" : 1591264985941,
+        "duration" : 0
+      }
+    } ]
+  },
+  "30a97c2193df5a3363308f405c9fd52d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d1f447ee0f207588",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 24为False，跳过测试",
+      "time" : {
+        "start" : 1591265074080,
+        "stop" : 1591265074080,
+        "duration" : 0
+      }
+    } ]
+  },
+  "607caadd354f4c4efdbb72f4f9daa0e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64e15c431370b130",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 21为False，跳过测试",
+      "time" : {
+        "start" : 1591265074052,
+        "stop" : 1591265074053,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1cf38d5a9651f7fb92b7b83012057bd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b624d1132b5b98b1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 30为False，跳过测试",
+      "time" : {
+        "start" : 1591265074135,
+        "stop" : 1591265074135,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b027457ff219326b7bc7421ac4a16793" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e23fa7030fd7c85",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 111为False，跳过测试",
+      "time" : {
+        "start" : 1591264985975,
+        "stop" : 1591264985975,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ef4625cc5e68057c13e7b6f0094907a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7bc9fd35533d7db",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 21为False，跳过测试",
+      "time" : {
+        "start" : 1591265143833,
+        "stop" : 1591265143834,
+        "duration" : 1
+      }
+    } ]
+  },
+  "c3dcd0ed6d430df0dff5350d492c4e16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d743552a73269cc3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 70为False，跳过测试",
+      "time" : {
+        "start" : 1591265074583,
+        "stop" : 1591265074583,
+        "duration" : 0
+      }
+    } ]
+  },
+  "414ab0db42c7b64a1084fdc059b6e67b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5440212e33a8df6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 21为False，跳过测试",
+      "time" : {
+        "start" : 1591264985081,
+        "stop" : 1591264985081,
+        "duration" : 0
+      }
+    } ]
+  },
+  "298691937134befcfb85bc29ed5b3eca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94cda5dd1fbfd870",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265122075,
+        "stop" : 1591265125171,
+        "duration" : 3096
+      }
+    } ]
+  },
+  "9c7c2463ace6791a62f3e214e07d5fc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f75e1d087990efd6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 50为False，跳过测试",
+      "time" : {
+        "start" : 1591265074374,
+        "stop" : 1591265074374,
+        "duration" : 0
+      }
+    } ]
+  },
+  "06bef3c68dc47dfa3f706f52e07c6d4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ca7a12d71c0a851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265104614,
+        "stop" : 1591265107796,
+        "duration" : 3182
+      }
+    } ]
+  },
+  "9f820b0be3da7f1a394a129e99bc8ca3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ddb352cc8eac6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264952074,
+        "stop" : 1591264954382,
+        "duration" : 2308
+      }
+    } ]
+  },
+  "3b14240b2e073644e9d5f4962be0606d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "571d0e36df16553a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 47为False，跳过测试",
+      "time" : {
+        "start" : 1591264985373,
+        "stop" : 1591264985373,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e057e786459cc1729fa17791b7823348" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "238a03148eaaef2c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 79为False，跳过测试",
+      "time" : {
+        "start" : 1591265074673,
+        "stop" : 1591265074673,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b8709c33ab574f0e540a57885d33f367" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc83dbf8437c3aff",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 23为False，跳过测试",
+      "time" : {
+        "start" : 1591264985099,
+        "stop" : 1591264985099,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f83ecd77b86508b74d2b5af95b2526d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88e99949cefb42d6",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 95为False，跳过测试",
+      "time" : {
+        "start" : 1591264985830,
+        "stop" : 1591264985830,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3c807f918b8eef77a908b76bd74c7e9d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70b158271b404e93",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 37为False，跳过测试",
+      "time" : {
+        "start" : 1591265144029,
+        "stop" : 1591265144030,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a4153d2f84a5b2e5056cf7b99b41d524" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58c5dd81de97ea03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265094302,
+        "stop" : 1591265095465,
+        "duration" : 1163
+      }
+    } ]
+  },
+  "b076c219b8e5dbfa3aa6c7f7ac02a731" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5bead05761f65b7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 40为False，跳过测试",
+      "time" : {
+        "start" : 1591265074240,
+        "stop" : 1591265074240,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a01c1d4cf1b88e936fdbd1d5770bb6b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57c7c423d79f4998",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265031950,
+        "stop" : 1591265035070,
+        "duration" : 3120
+      }
+    } ]
+  },
+  "ce54610bb2bc06c231a6af302b8983ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1752171d8ea2a207",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 33为False，跳过测试",
+      "time" : {
+        "start" : 1591265074166,
+        "stop" : 1591265074166,
+        "duration" : 0
+      }
+    } ]
+  },
+  "88e7c44c91a20cff2f40f670e9d311d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8da20531315d29b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265112689,
+        "stop" : 1591265115823,
+        "duration" : 3134
+      }
+    } ]
+  },
+  "b36f9c98868580acea3f4bfc45cda47c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19ee16d26f6abcff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265136426,
+        "stop" : 1591265139486,
+        "duration" : 3060
+      }
+    } ]
+  },
+  "dd67eb0a74775d9bcccc91c451e62536" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c36aa85b5d17bfd2",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 97为False，跳过测试",
+      "time" : {
+        "start" : 1591264985848,
+        "stop" : 1591264985848,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1c71ea30364627f699cf3f8be3ba0217" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67ac2494a9c2cf61",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 40为False，跳过测试",
+      "time" : {
+        "start" : 1591264985284,
+        "stop" : 1591264985284,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9ec2d9b46ee3380ec84a4bdf6e1a6ea7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca66d7219638cda5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265133344,
+        "stop" : 1591265136414,
+        "duration" : 3070
+      }
+    } ]
+  },
+  "46a2f8f590aa3754ddceda927d1b33eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5a2f8caefc8bb1b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 70为False，跳过测试",
+      "time" : {
+        "start" : 1591264985595,
+        "stop" : 1591264985595,
+        "duration" : 0
+      }
+    } ]
+  },
+  "29d2864a28da3113d7c68c61641e4719" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea7cfa240959418c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 46为False，跳过测试",
+      "time" : {
+        "start" : 1591264985364,
+        "stop" : 1591264985364,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bdd845dedaa5ddb9548a0393e6a4c769" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "830ce2e7b674aeb8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 135为False，跳过测试",
+      "time" : {
+        "start" : 1591264986189,
+        "stop" : 1591264986189,
+        "duration" : 0
+      }
+    } ]
+  },
+  "025b4666106e9964609c47866fe0a88a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "882eaba1ed0e08b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265038220,
+        "stop" : 1591265041305,
+        "duration" : 3085
+      }
+    } ]
+  },
+  "d7911998585343f7f35fe91915ec9b1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2062b06d067e9394",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753479882,
+        "stop" : 1588753482995,
+        "duration" : 3113
+      }
+    } ]
+  },
+  "d63c948356b6c4d21986df1addd0f590" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca3e7a5b39e7d411",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 67为False，跳过测试",
+      "time" : {
+        "start" : 1591264985567,
+        "stop" : 1591264985567,
+        "duration" : 0
+      }
+    } ]
+  },
+  "14764a399924c516757c82da99d00097" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8859046cbf1e370e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 129为False，跳过测试",
+      "time" : {
+        "start" : 1591264986137,
+        "stop" : 1591264986137,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f102f0ad690f59238aa3fd7d7972ebc0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23a492c5fd917cb4",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 78为False，跳过测试",
+      "time" : {
+        "start" : 1591264985669,
+        "stop" : 1591264985670,
+        "duration" : 1
+      }
+    } ]
+  },
+  "dfe7502d918a13800e812e7848f10777" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7c8baa9b7b303ad",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 35为False，跳过测试",
+      "time" : {
+        "start" : 1591265144000,
+        "stop" : 1591265144000,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8b7b4dfac65e36812c5d453e187acfd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b115d8736cdf724d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265004497,
+        "stop" : 1591265005572,
+        "duration" : 1075
+      }
+    } ]
+  },
+  "5724d7abbb3895b6bf3e0f9eda677a37" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27898e4deae817a0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 103为False，跳过测试",
+      "time" : {
+        "start" : 1591264985906,
+        "stop" : 1591264985906,
+        "duration" : 0
+      }
+    } ]
+  },
+  "098603cb3fb37faf6ff26714b226e836" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e727f91247b60b07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264920770,
+        "stop" : 1591264923932,
+        "duration" : 3162
+      }
+    } ]
+  },
+  "b8d87524c192c0d60efcbe7e9448e327" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2becdd05205cc88",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 27为False，跳过测试",
+      "time" : {
+        "start" : 1591264985136,
+        "stop" : 1591264985136,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d9676e65f3716a81a68b56f095fbea83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bef28ccbd65464d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753442972,
+        "stop" : 1588753448406,
+        "duration" : 5434
+      }
+    } ]
+  },
+  "6436886135eb98203df02112725e392e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65541893062ec375",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 125为False，跳过测试",
+      "time" : {
+        "start" : 1591264986101,
+        "stop" : 1591264986101,
+        "duration" : 0
+      }
+    } ]
+  },
+  "30ea55246d03bfe52b978e32dd1acaff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6dc019526873bef",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 99为False，跳过测试",
+      "time" : {
+        "start" : 1591264985871,
+        "stop" : 1591264985871,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bc3582ab7de96ca99cb687757a521359" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "837124b5a69fe0e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588754120317,
+        "stop" : 1588754121498,
+        "duration" : 1181
+      }
+    } ]
+  },
+  "9a48dd9f67d06b3268101ac2886cae9a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fce0f4de6a69a02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265095474,
+        "stop" : 1591265101072,
+        "duration" : 5598
+      }
+    } ]
+  },
+  "cd321d82558ab82de378fdfa9ded46b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7bda683b80a825d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 49为False，跳过测试",
+      "time" : {
+        "start" : 1591265074365,
+        "stop" : 1591265074365,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1b58b38e50635648592e681bf3d90a78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b17c50107932a2f9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 27为False，跳过测试",
+      "time" : {
+        "start" : 1591265143915,
+        "stop" : 1591265143916,
+        "duration" : 1
+      }
+    } ]
+  },
+  "deb2a5fcbf08566eefb6b0dae3be5d4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a19aee5ffacd0440",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 80为False，跳过测试",
+      "time" : {
+        "start" : 1591265074684,
+        "stop" : 1591265074684,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a76f3ea876c5ed404c3b817a5ef221f4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ecb82f1b72b35029",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 28为False，跳过测试",
+      "time" : {
+        "start" : 1591265074117,
+        "stop" : 1591265074117,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d15b9bc9107490aec4f29ce8a413d605" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1381f3c0e9a653da",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 86为False，跳过测试",
+      "time" : {
+        "start" : 1591265074747,
+        "stop" : 1591265074747,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bdf556742e9b5e6d632258c168ecf225" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7975e4bc3f56d24",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 30为False，跳过测试",
+      "time" : {
+        "start" : 1591264985162,
+        "stop" : 1591264985162,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e96c24c9851d2c8e33a76df7be59ca63" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9eb02abcf6f94b8c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: decoding str is not supported",
+      "time" : {
+        "start" : 1591265043338,
+        "stop" : 1591265073579,
+        "duration" : 30241
+      }
+    } ]
+  },
+  "7998ff229df42219389adffdb4936671" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7319c0dc5992d1ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591265127079,
+        "stop" : 1591265130251,
+        "duration" : 3172
+      }
+    } ]
+  },
+  "2a9608d3eeb19c310b40586031af313a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdb9275684788ec5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 89为False，跳过测试",
+      "time" : {
+        "start" : 1591264985769,
+        "stop" : 1591264985769,
+        "duration" : 0
+      }
+    } ]
+  },
+  "be7b1c78c3bfc0c80d28a62a90bbae7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc5f146cb61b3507",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 92为False，跳过测试",
+      "time" : {
+        "start" : 1591264985801,
+        "stop" : 1591264985801,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d33c28ea4505f5748ba456c6442a57f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a116c274730061f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 98为False，跳过测试",
+      "time" : {
+        "start" : 1591264985857,
+        "stop" : 1591264985857,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b85718199379cc7e10cd18214d7d2f36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ab5561f5f69aba0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264923942,
+        "stop" : 1591264927034,
+        "duration" : 3092
+      }
+    } ]
+  },
+  "608fc9de74deee82a4b7007836ddb5f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f8dfcca916f5d8e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 62为False，跳过测试",
+      "time" : {
+        "start" : 1591265074501,
+        "stop" : 1591265074501,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1468ff56cf52204f0894c421be83aacb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23181e8e1f67620",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 116为False，跳过测试",
+      "time" : {
+        "start" : 1591264986020,
+        "stop" : 1591264986020,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1a03b346c4fd6e1bb8541a2095bec074" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b42c8960ab2134d3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 59为False，跳过测试",
+      "time" : {
+        "start" : 1591264985478,
+        "stop" : 1591264985479,
+        "duration" : 1
+      }
+    } ]
+  },
+  "6c3c8df8aa982494d005b0a6ae1afcda" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "887e5ffc56e75b33",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 60为False，跳过测试",
+      "time" : {
+        "start" : 1591265074481,
+        "stop" : 1591265074481,
+        "duration" : 0
+      }
+    } ]
+  },
+  "51206c1cdefa8f8b6f24f4858b357bb9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e13bded26390b29e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: ID: 37为False，跳过测试",
+      "time" : {
+        "start" : 1591264985254,
+        "stop" : 1591264985254,
+        "duration" : 0
+      }
+    } ]
+  }
+}

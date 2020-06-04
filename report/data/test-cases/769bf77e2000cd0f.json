@@ -1,0 +1,99 @@
+{
+  "uid" : "769bf77e2000cd0f",
+  "name" : "test_run[142-0-141-从登录状态-变成退出登录-[\"click\",\"perform_click\"]-[\"\"\"By.XPATH,'/html/body/div[1]/div[1]/div[2]/div'\"\"\",\"\"\"(By.XPATH,'/html/body/div[1]/header/nav/div[3]/div/div')|(By.XPATH,'/html/body/ul/li[3]')\"\"\"]-get_url-[\"none\"]-https://test.uwa4d.com/-None]",
+  "fullName" : "testrun.TestClass#test_run[142-0-141-从登录状态-变成退出登录-[\"click\",\"perform_click\"]-[\"\"\"By.XPATH,'/html/body/div[1]/div[1]/div[2]/div'\"\"\",\"\"\"(By.XPATH,'/html/body/div[1]/header/nav/div[3]/div/div')|(By.XPATH,'/html/body/ul/li[3]')\"\"\"]-get_url-",
+  "historyId" : "416b0b50a02e112e40f681c498bc4294",
+  "time" : {
+    "start" : 1591264986246,
+    "stop" : 1591264986246,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 141为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 141为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GOT.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "7784-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "141"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'变成退出登录'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"\"\"By.XPATH,'/html/body/div[1]/div[1]/div[2]/div'\"\"\",\"\"\"(By.XPATH,'/html/body/div[1]/header/nav/div[3]/div/div')|(By.XPATH,'/html/body/ul/li[3]')\"\"\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/'"
+  }, {
+    "name" : "ID",
+    "value" : "142"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\",\"perform_click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从登录状态'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f98dce893f9c53ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753868508,
+        "stop" : 1588753871681,
+        "duration" : 3173
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "769bf77e2000cd0f.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "141", "'变成退出登录'", "'[\"\"\"By.XPATH,'/html/body/div[1]/div[1]/div[2]/div'\"\"\",\"\"\"(By.XPATH,'/html/body/div[1]/header/nav/div[3]/div/div')|(By.XPATH,'/html/body/ul/li[3]')\"\"\"]'", "'https://test.uwa4d.com/'", "142", "'[\"click\",\"perform_click\"]'", "'从登录状态'", "None", "0" ]
+}

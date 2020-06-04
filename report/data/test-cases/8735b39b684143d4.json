@@ -1,0 +1,102 @@
+{
+  "uid" : "8735b39b684143d4",
+  "name" : "test_run[5-0-4-从登录页面-跳转到测试主页-[\"input_keywords\",\"input_keywords\",\"click\"]-[\"(By.ID,'input-12')|guorong.chen@uwa4d.com\",\"(By.ID,'input-15')|uwa123456\",\"\"\"By.XPATH,'//*[@id=\"uwa-signin-view\"]/div[2]/form/div/div[3]/div[2]/button/span'\"\"\"]-get_url-[\"none\"]-https://test.uwa4d.com/u/overview.html-None1]",
+  "fullName" : "testrun.TestClass#test_run[5-0-4-从登录页面-跳转到测试主页-[\"input_keywords\",\"input_keywords\",\"click\"]-[\"(By.ID,'input-12')|guorong.chen@uwa4d.com\",\"(By.ID,'input-15')|uwa123456\",\"\"\"By.XPATH,'//*[@id=\"uwa-signin-view\"]/div[2]/form/div/div[3]/div[2]/button/span'\"\"\"]-get_url-",
+  "historyId" : "958c552f60b4b735e54a4e1fd7e54393",
+  "time" : {
+    "start" : 1588753881683,
+    "stop" : 1588753885210,
+    "duration" : 3527
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f1dbeacb146f19e",
+      "name" : "log",
+      "source" : "7f1dbeacb146f19e.txt",
+      "type" : "text/plain",
+      "size" : 39
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "4"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'跳转到测试主页'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"(By.ID,'input-12')|guorong.chen@uwa4d.com\",\"(By.ID,'input-15')|uwa123456\",\"\"\"By.XPATH,'//*[@id=\"uwa-signin-view\"]/div[2]/form/div/div[3]/div[2]/button/span'\"\"\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/u/overview.html'"
+  }, {
+    "name" : "ID",
+    "value" : "5"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"input_keywords\",\"input_keywords\",\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从登录页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8735b39b684143d4.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "4", "'跳转到测试主页'", "'[\"(By.ID,'input-12')|guorong.chen@uwa4d.com\",\"(By.ID,'input-15')|uwa123456\",\"\"\"By.XPATH,'//*[@id=\"uwa-signin-view\"]/div[2]/form/div/div[3]/div[2]/button/span'\"\"\"]'", "'https://test.uwa4d.com/u/overview.html'", "5", "'[\"input_keywords\",\"input_keywords\",\"click\"]'", "'从登录页面'", "None", "0" ]
+}

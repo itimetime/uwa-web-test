@@ -1,0 +1,97 @@
+{
+  "uid" : "19ee16d26f6abcff",
+  "name" : "test_run[17-0-16-从使用说明界面-点击确定-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.overview-grid.report-content > div.el-dialog__wrapper.plugin-dialog > div > div.el-dialog__footer > div > button'\"]-get_url-[\"none\"]-https://test.uwa4d.com/u/pipeline/overview?project=6746&type=7-None]",
+  "fullName" : "testrun.TestClass#test_run[17-0-16-从使用说明界面-点击确定-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.overview-grid.report-content > div.el-dialog__wrapper.plugin-dialog > div > div.el-dialog__footer > div > button'\"]-get_url-",
+  "historyId" : "b36f9c98868580acea3f4bfc45cda47c",
+  "time" : {
+    "start" : 1591265136426,
+    "stop" : 1591265139486,
+    "duration" : 3060
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "UwaTestCase_00_pipeline1.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "10724-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "16"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击确定'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.overview-grid.report-content > div.el-dialog__wrapper.plugin-dialog > div > div.el-dialog__footer > div > button'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/u/pipeline/overview?project=6746&type=7'"
+  }, {
+    "name" : "ID",
+    "value" : "17"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从使用说明界面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1716aa671638a851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588754160131,
+        "stop" : 1588754163202,
+        "duration" : 3071
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19ee16d26f6abcff.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "16", "'点击确定'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.overview-grid.report-content > div.el-dialog__wrapper.plugin-dialog > div > div.el-dialog__footer > div > button'\"]'", "'https://test.uwa4d.com/u/pipeline/overview?project=6746&type=7'", "17", "'[\"click\"]'", "'从使用说明界面'", "None", "0" ]
+}

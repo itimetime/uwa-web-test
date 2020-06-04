@@ -1,0 +1,127 @@
+{
+  "uid" : "57c7c423d79f4998",
+  "name" : "test_run[11-0-10-从项目页-测试概览-点击Reserved Mono峰值-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]-get_text-[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]-Reserved Mono峰值-None]",
+  "fullName" : "testrun.TestClass#test_run[11-0-10-从项目页-测试概览-点击Reserved Mono峰值-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]-get_text-",
+  "historyId" : "a01c1d4cf1b88e936fdbd1d5770bb6b1",
+  "time" : {
+    "start" : 1591265031950,
+    "stop" : 1591265035070,
+    "duration" : 3120
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591264991984,
+      "stop" : 1591264999906,
+      "duration" : 7922
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591265074788,
+      "stop" : 1591265078854,
+      "duration" : 4066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GPM.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "23572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "10"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击Reserved Mono峰值'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'Reserved Mono峰值'"
+  }, {
+    "name" : "ID",
+    "value" : "11"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从项目页-测试概览'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "82f572fda901e4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591264936401,
+        "stop" : 1591264939477,
+        "duration" : 3076
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57c7c423d79f4998.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'", "'get_text'", "10", "'点击Reserved Mono峰值'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]'", "'Reserved Mono峰值'", "11", "'[\"click\"]'", "'从项目页-测试概览'", "None", "0" ]
+}

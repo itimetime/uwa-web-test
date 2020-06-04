@@ -1,0 +1,129 @@
+{
+  "uid" : "ba95f0405ebc01f7",
+  "name" : "test_run[118-0-117-项目页-堆内存峰值-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(2) > span.name'\"]-get_text-[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]-堆内存峰值-None]",
+  "fullName" : "testrun.TestClass#test_run[118-0-117-项目页-堆内存峰值-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(2) > span.name'\"]-get_text-",
+  "historyId" : "f47f44fe2c657f1424158007d04f6ff8",
+  "time" : {
+    "start" : 1591264986029,
+    "stop" : 1591264986029,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 117为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 117为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591264896965,
+      "stop" : 1591264904907,
+      "duration" : 7942
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591264986252,
+      "stop" : 1591264990324,
+      "duration" : 4072
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GOT.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "7784-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "117"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'堆内存峰值'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(2) > span.name'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'堆内存峰值'"
+  }, {
+    "name" : "ID",
+    "value" : "118"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'项目页'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9fd9e4bcaf00e984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753795571,
+        "stop" : 1588753798670,
+        "duration" : 3099
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba95f0405ebc01f7.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'", "'get_text'", "117", "'堆内存峰值'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(2) > span.name'\"]'", "'堆内存峰值'", "118", "'[\"click\"]'", "'项目页'", "None", "0" ]
+}

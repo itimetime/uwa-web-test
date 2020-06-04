@@ -1,0 +1,129 @@
+{
+  "uid" : "f42221266e51a6b6",
+  "name" : "test_run[19-0-18-从报告详情页面-运行信息页面-点击运行信息-Reserved Mono峰值 (MB)-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(4) > div > div.el-row > div.el-col.el-col-16 > p'\"]-get_text-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.hchart-content > div > div.hchart-header > h3'\"]-Mono堆内存-None]",
+  "fullName" : "testrun.TestClass#test_run[19-0-18-从报告详情页面-运行信息页面-点击运行信息-Reserved Mono峰值 (MB)-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(4) > div > div.el-row > div.el-col.el-col-16 > p'\"]-get_text-",
+  "historyId" : "4f5bd353d50008817e9cace7cbda7064",
+  "time" : {
+    "start" : 1591265074025,
+    "stop" : 1591265074025,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 18为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 18为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591264991984,
+      "stop" : 1591264999906,
+      "duration" : 7922
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591265074788,
+      "stop" : 1591265078854,
+      "duration" : 4066
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GPM.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "23572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.hchart-content > div > div.hchart-header > h3'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "18"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击运行信息-Reserved Mono峰值 (MB)'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(4) > div > div.el-row > div.el-col.el-col-16 > p'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'Mono堆内存'"
+  }, {
+    "name" : "ID",
+    "value" : "19"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从报告详情页面-运行信息页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eef7e8d3922ad101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753924515,
+        "stop" : 1588753927626,
+        "duration" : 3111
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f42221266e51a6b6.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.hchart-content > div > div.hchart-header > h3'\"]'", "'get_text'", "18", "'点击运行信息-Reserved Mono峰值 (MB)'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(4) > div > div.el-row > div.el-col.el-col-16 > p'\"]'", "'Mono堆内存'", "19", "'[\"click\"]'", "'从报告详情页面-运行信息页面'", "None", "0" ]
+}

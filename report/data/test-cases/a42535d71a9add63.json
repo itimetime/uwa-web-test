@@ -1,0 +1,129 @@
+{
+  "uid" : "a42535d71a9add63",
+  "name" : "test_run[25-0-24-从项目报告页-点击Edito设置检测-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li > ul > li:nth-child(3) > a > span'\"]-get_text-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.plugin-header > h3'\"]-Editor设置检测-None]",
+  "fullName" : "testrun.TestClass#test_run[25-0-24-从项目报告页-点击Edito设置检测-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li > ul > li:nth-child(3) > a > span'\"]-get_text-",
+  "historyId" : "bfbcd64c01349c181338842892edc874",
+  "time" : {
+    "start" : 1591265143873,
+    "stop" : 1591265143873,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 24为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 24为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591265080784,
+      "stop" : 1591265088752,
+      "duration" : 7968
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591265144063,
+      "stop" : 1591265148083,
+      "duration" : 4020
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "UwaTestCase_00_pipeline1.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "10724-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.plugin-header > h3'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "24"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击Edito设置检测'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li > ul > li:nth-child(3) > a > span'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'Editor设置检测'"
+  }, {
+    "name" : "ID",
+    "value" : "25"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从项目报告页'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b19238aec58b784f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588754183258,
+        "stop" : 1588754186372,
+        "duration" : 3114
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a42535d71a9add63.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.plugin-header > h3'\"]'", "'get_text'", "24", "'点击Edito设置检测'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-side-menu > ul > li > ul > li:nth-child(3) > a > span'\"]'", "'Editor设置检测'", "25", "'[\"click\"]'", "'从项目报告页'", "None", "0" ]
+}

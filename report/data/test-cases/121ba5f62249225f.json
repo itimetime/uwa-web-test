@@ -1,0 +1,99 @@
+{
+  "uid" : "121ba5f62249225f",
+  "name" : "test_run[65-0-64-项目页-查看-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.section-container.table-container > div.el-table.test-info-table.section-container.el-table--fit.el-table--border.el-table--enable-row-transition > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr > td.el-table_1_column_9 > div > button > span'\"]-get_url-[\"none\"]-https://test.uwa4d.com/u/got/mono.html/report?dataKey=20190826183650ple567d3577&project=6553&engine=1-None]",
+  "fullName" : "testrun.TestClass#test_run[65-0-64-项目页-查看-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.section-container.table-container > div.el-table.test-info-table.section-container.el-table--fit.el-table--border.el-table--enable-row-transition > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr > td.el-table_1_column_9 > div > button > span'\"]-get_url-",
+  "historyId" : "598c30e574b90c9b44d3fb82980fe84b",
+  "time" : {
+    "start" : 1591264985541,
+    "stop" : 1591264985541,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 64为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 64为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "GOT.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "7784-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "64"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'查看'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.section-container.table-container > div.el-table.test-info-table.section-container.el-table--fit.el-table--border.el-table--enable-row-transition > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr > td.el-table_1_column_9 > div > button > span'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/u/got/mono.html/report?dataKey=20190826183650ple567d3577&project=6553&engine=1'"
+  }, {
+    "name" : "ID",
+    "value" : "65"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'项目页'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cdffdb60b007950d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588753637299,
+        "stop" : 1588753640365,
+        "duration" : 3066
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "121ba5f62249225f.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "64", "'查看'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.section-container.table-container > div.el-table.test-info-table.section-container.el-table--fit.el-table--border.el-table--enable-row-transition > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr > td.el-table_1_column_9 > div > button > span'\"]'", "'https://test.uwa4d.com/u/got/mono.html/report?dataKey=20190826183650ple567d3577&project=6553&engine=1'", "65", "'[\"click\"]'", "'项目页'", "None", "0" ]
+}

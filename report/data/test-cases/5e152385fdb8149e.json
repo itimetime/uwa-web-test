@@ -1,0 +1,116 @@
+{
+  "uid" : "5e152385fdb8149e",
+  "name" : "test_run[11-0-10-从项目页-测试概览-点击Reserved Mono峰值-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]-get_text-[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]-Reserved Mono峰值-None1]",
+  "fullName" : "testrun.TestClass#test_run[11-0-10-从项目页-测试概览-点击Reserved Mono峰值-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]-get_text-",
+  "historyId" : "cef89098adfe2a2de6ff14ca6826b482",
+  "time" : {
+    "start" : 1588753900812,
+    "stop" : 1588753903901,
+    "duration" : 3089
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1588753427363,
+      "stop" : 1588753436153,
+      "duration" : 8790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1588754229250,
+      "stop" : 1588754233323,
+      "duration" : 4073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "10"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击Reserved Mono峰值'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'Reserved Mono峰值'"
+  }, {
+    "name" : "ID",
+    "value" : "11"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从项目页-测试概览'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e152385fdb8149e.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'", "'get_text'", "10", "'点击Reserved Mono峰值'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div.main-chart.el-row > div.data-column.overview.el-col.el-col-7 > ul > li:nth-child(3) > span.name'\"]'", "'Reserved Mono峰值'", "11", "'[\"click\"]'", "'从项目页-测试概览'", "None", "0" ]
+}

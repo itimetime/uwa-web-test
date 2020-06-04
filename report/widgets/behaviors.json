@@ -1,0 +1,37 @@
+{
+  "total" : 19,
+  "items" : [ {
+    "uid" : "25a406cf89be976cd8334d5869fa4238",
+    "name" : "UwaTestCase_00_pipeline1.xlsx",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 21,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 40
+    }
+  }, {
+    "uid" : "7df8819fc3a253c21f86d5fa8fde2220",
+    "name" : "GPM.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 75,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 88
+    }
+  }, {
+    "uid" : "53719a300d5a26a7547b42dfd55fab6a",
+    "name" : "GOT.xlsx",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 125,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 135
+    }
+  } ]
+}

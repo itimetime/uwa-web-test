@@ -1,0 +1,99 @@
+{
+  "uid" : "2a2924180c92dc7e",
+  "name" : "test_run[35-0-34-从项目报告页-项目资源检测-点击成功的检测结果右侧下拉菜单-[\"click\"]-[\"\"\"By.XPATH,'//*[@id=\"uwa-main-app\"]/div[2]/div[3]/div[3]/div/div[3]/table/tbody/tr[17]/td[6]/div/div/i'\"\"\"]-get_text-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(18) > td > div > p'\"]-检测通过-None]",
+  "fullName" : "testrun.TestClass#test_run[35-0-34-从项目报告页-项目资源检测-点击成功的检测结果右侧下拉菜单-[\"click\"]-[\"\"\"By.XPATH,'//*[@id=\"uwa-main-app\"]/div[2]/div[3]/div[3]/div/div[3]/table/tbody/tr[17]/td[6]/div/div/i'\"\"\"]-get_text-",
+  "historyId" : "fb4371b4e813bf28b4859e57c4940875",
+  "time" : {
+    "start" : 1591265143988,
+    "stop" : 1591265143988,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: ID: 34为False，跳过测试",
+  "statusTrace" : "('C:\\\\Autotest\\\\AutoTestForUwa\\\\testrun.py', 47, 'Skipped: ID: 34为False，跳过测试')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "UwaTestCase_00_pipeline1.xlsx"
+  }, {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N6F5SUG"
+  }, {
+    "name" : "thread",
+    "value" : "10724-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(18) > td > div > p'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "34"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击成功的检测结果右侧下拉菜单'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"\"\"By.XPATH,'//*[@id=\"uwa-main-app\"]/div[2]/div[3]/div[3]/div/div[3]/table/tbody/tr[17]/td[6]/div/div/i'\"\"\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'检测通过'"
+  }, {
+    "name" : "ID",
+    "value" : "35"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从项目报告页-项目资源检测'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9795bb62a22243a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588754207987,
+        "stop" : 1588754211134,
+        "duration" : 3147
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a2924180c92dc7e.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.plugin-container.report-content > div.rule-table-container > div > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(18) > td > div > p'\"]'", "'get_text'", "34", "'点击成功的检测结果右侧下拉菜单'", "'[\"\"\"By.XPATH,'//*[@id=\"uwa-main-app\"]/div[2]/div[3]/div[3]/div/div[3]/table/tbody/tr[17]/td[6]/div/div/i'\"\"\"]'", "'检测通过'", "35", "'[\"click\"]'", "'从项目报告页-项目资源检测'", "None", "0" ]
+}

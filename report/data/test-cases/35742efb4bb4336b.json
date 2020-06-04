@@ -1,0 +1,114 @@
+{
+  "uid" : "35742efb4bb4336b",
+  "name" : "test_run[30-0-29-报告详情页面-点击FPS小于25帧数百分比（%）-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(2) > div > div.el-row > div.el-col.el-col-16 > p'\"]-get_text-[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]-FPS小于25帧数百分比-None]",
+  "fullName" : "testrun.TestClass#test_run[30-0-29-报告详情页面-点击FPS小于25帧数百分比（%）-[\"click\"]-[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(2) > div > div.el-row > div.el-col.el-col-16 > p'\"]-get_text-",
+  "historyId" : "c2f3db1c6f93b41188d5ffbbb06e2793",
+  "time" : {
+    "start" : 1588753531514,
+    "stop" : 1588753534625,
+    "duration" : 3111
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1588753427363,
+      "stop" : 1588753436153,
+      "duration" : 8790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1588754229250,
+      "stop" : 1588754233323,
+      "duration" : 4073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_text'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "29"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'点击FPS小于25帧数百分比（%）'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(2) > div > div.el-row > div.el-col.el-col-16 > p'\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'FPS小于25帧数百分比'"
+  }, {
+    "name" : "ID",
+    "value" : "30"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'报告详情页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35742efb4bb4336b.json",
+  "parameterValues" : [ "'[\"By.CSS_SELECTOR,'.highcharts-title > tspan'\"]'", "'get_text'", "29", "'点击FPS小于25帧数百分比（%）'", "'[\"By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-content > div > div.widget-container.el-row > div:nth-child(2) > div > div.el-row > div.el-col.el-col-16 > p'\"]'", "'FPS小于25帧数百分比'", "30", "'[\"click\"]'", "'报告详情页面'", "None", "0" ]
+}

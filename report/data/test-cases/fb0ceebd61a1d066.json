@@ -1,0 +1,84 @@
+{
+  "uid" : "fb0ceebd61a1d066",
+  "name" : "test_run[135-0-134-从报告详情页面-逻辑代码页面-跳转到账户设置界面-[\"perform_click\"]-[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-header > div > div > div > span > img')|(By.LINK_TEXT,'账户设置')\"]-get_url-[\"none\"]-https://test.uwa4d.com/u/setting.html-None]",
+  "fullName" : "testrun.TestClass#test_run[135-0-134-从报告详情页面-逻辑代码页面-跳转到账户设置界面-[\"perform_click\"]-[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-header > div > div > div > span > img')|(By.LINK_TEXT,'账户设置')\"]-get_url-",
+  "historyId" : "304db3ee24c03ca32018ccdcd417866f",
+  "time" : {
+    "start" : 1588753849115,
+    "stop" : 1588753850865,
+    "duration" : 1750
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "134"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'跳转到账户设置界面'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-header > div > div > div > span > img')|(By.LINK_TEXT,'账户设置')\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/u/setting.html'"
+  }, {
+    "name" : "ID",
+    "value" : "135"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"perform_click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从报告详情页面-逻辑代码页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb0ceebd61a1d066.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "134", "'跳转到账户设置界面'", "'[\"(By.CSS_SELECTOR,'#uwa-main-app > div.report-section > div.report-header > div > div > div > span > img')|(By.LINK_TEXT,'账户设置')\"]'", "'https://test.uwa4d.com/u/setting.html'", "135", "'[\"perform_click\"]'", "'从报告详情页面-逻辑代码页面'", "None", "0" ]
+}

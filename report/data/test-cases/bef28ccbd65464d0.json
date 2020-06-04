@@ -1,0 +1,86 @@
+{
+  "uid" : "bef28ccbd65464d0",
+  "name" : "test_run[4-0-3-从性能诊断与优化页面-跳转到登录界面-[\"click\"]-[\"\"\"By.XPATH,'//*[@id=\"header-container\"]/div/div[2]/div[2]/ul[2]/a'\"\"\"]-get_url-[\"none\"]-https://test.uwa4d.com/signin.html#signin-None0]",
+  "fullName" : "testrun.TestClass#test_run[4-0-3-从性能诊断与优化页面-跳转到登录界面-[\"click\"]-[\"\"\"By.XPATH,'//*[@id=\"header-container\"]/div/div[2]/div[2]/ul[2]/a'\"\"\"]-get_url-",
+  "historyId" : "d9676e65f3716a81a68b56f095fbea83",
+  "time" : {
+    "start" : 1588753442972,
+    "stop" : 1588753448406,
+    "duration" : 5434
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testrun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JHQEP9C"
+  }, {
+    "name" : "thread",
+    "value" : "2076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testrun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "CHECKELEMENT",
+    "value" : "'[\"none\"]'"
+  }, {
+    "name" : "CHECKPOINT",
+    "value" : "'get_url'"
+  }, {
+    "name" : "DEPENDENCY",
+    "value" : "3"
+  }, {
+    "name" : "DESCRIPTION",
+    "value" : "'跳转到登录界面'"
+  }, {
+    "name" : "ELEMENT",
+    "value" : "'[\"\"\"By.XPATH,'//*[@id=\"header-container\"]/div/div[2]/div[2]/ul[2]/a'\"\"\"]'"
+  }, {
+    "name" : "EXPECT_VALUE",
+    "value" : "'https://test.uwa4d.com/signin.html#signin'"
+  }, {
+    "name" : "ID",
+    "value" : "4"
+  }, {
+    "name" : "OPERATION",
+    "value" : "'[\"click\"]'"
+  }, {
+    "name" : "PRECONDITION",
+    "value" : "'从性能诊断与优化页面'"
+  }, {
+    "name" : "RESULT",
+    "value" : "None"
+  }, {
+    "name" : "TYPE",
+    "value" : "0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bef28ccbd65464d0.json",
+  "parameterValues" : [ "'[\"none\"]'", "'get_url'", "3", "'跳转到登录界面'", "'[\"\"\"By.XPATH,'//*[@id=\"header-container\"]/div/div[2]/div[2]/ul[2]/a'\"\"\"]'", "'https://test.uwa4d.com/signin.html#signin'", "4", "'[\"click\"]'", "'从性能诊断与优化页面'", "None", "0" ]
+}
